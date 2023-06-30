@@ -3,7 +3,7 @@
     "containerDefinitions": [
       {
         "name": "web",
-        "image": "183397639038.dkr.ecr.us-east-2.amazonaws.com/test:1",
+        "image": "jarenas/testapp:latest",
         "cpu": 128,
         "memoryReservation": 128,
         "portMappings": [
